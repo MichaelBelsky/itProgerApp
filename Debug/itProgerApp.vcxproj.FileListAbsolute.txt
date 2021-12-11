@@ -1,0 +1,3 @@
+C:\Users\Mikhail\source\repos\itProgerApp\itProgerApp\Debug\itProgerApp.vcxprojAssemblyReference.cache
+C:\Users\Mikhail\source\repos\itProgerApp\itProgerApp\Debug\itProgerApp.itProgerForm.resources
+C:\Users\Mikhail\source\repos\itProgerApp\itProgerApp\Debug\itProgerApp.vcxproj.GenerateResource.cache
