@@ -1,4 +1,4 @@
 ﻿  itProgerForm.cpp
 C:\Users\Mikhail\source\repos\itProgerApp\itProgerApp\itProgerForm.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
-  itProgerForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  DataHandler.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   itProgerApp.vcxproj -> C:\Users\Mikhail\source\repos\itProgerApp\Debug\itProgerApp.exe

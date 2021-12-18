@@ -120,9 +120,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DataHandler.cpp" />
     <ClCompile Include="itProgerForm.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DataHandler.h" />
     <ClInclude Include="itProgerForm.h">
       <FileType>CppForm</FileType>
     </ClInclude>
